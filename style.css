@@ -1,0 +1,83 @@
+html, body{
+    height: 100vh !important;
+  }
+  h1{
+      position: relative;
+      top: 50px;
+      left: 0px;
+      color: black;
+    }
+    body{
+      background-color: yellow;
+    }
+    body::-webkit-scrollbar {
+      display: none;
+  }
+    #quote{
+        font-style: italic;
+        color: #5077d3;
+        position:relative;
+        display: flex;
+        font-size: 2em;
+        bottom: 500px;
+        left: 0px;
+    }
+    div ul li{
+        position:relative;
+        bottom: 190px;
+        left: 150px;
+        max-width: 500px;
+    }
+    .Fred:hover{
+      transform: scale(1.1);
+      color: #ff00c8;
+      font-size: 17px;
+    }
+    .Fred{
+      text-decoration: none;
+      font-style: bold;
+      color: #000000;
+    }
+    p{
+      position: relative;
+      top: 30px;
+      margin: 20px 20px 19px 2px;
+      color: black;
+      max-width: 1000px;
+    }
+    div img{
+      position:relative;
+      max-height: 200px;
+      max-width: 200px;
+      bottom: -55px;
+      left: 0px;
+    }
+  h4{
+      position: relative;
+      bottom: 400px;
+      left: 400px;
+      margin: 20px 20px 19px 2px;
+      max-width: 500px;
+  }
+  #image1{
+    position: relative;
+    bottom: 400px;
+    left: 450px;
+  }
+  #image2{
+    position: relative;
+    bottom: 400px;
+    left: 450px;
+  }
+  #image3{
+    position: relative;
+    bottom: 400px;
+    left: 450px;
+  }
+  main{
+    
+  }
+  .img-div{
+    max-height: 400px !important;
+  }
+   
